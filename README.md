@@ -28,7 +28,18 @@
 
 ## About
                                  
-Tired of your friends telling "Kahit Saan" if you ask them where to eat?  This app provides a list of the nearby restaurant and café based on your location so you won’t have decision fatigue.
+
+"Kahit Saan" - Find your perfect bite, wherever you are! ️☕️
+
+Struggling with the "Kahit Saan" (Anywhere) answer?
+
+We've all been there. You're hungry, but you have no idea what you're in the mood for, or where to find it.
+
+"Kahit Saan" is here to help!
+
+Discover amazing restaurants and cafes near you in a list.
+
+Never be stumped by the "Kahit Saan" answer again!
 
 ## Built With
 * SWIFT
